@@ -1,5 +1,9 @@
 # Restaurant Order Analysis
+## Background
+A quarter's worth of orders from a fictitious restaurant serving international cuisine, including the date and time of each order, the items ordered, and additional details on the type, name and price of the items.
 
+
+## MySQL Queries 
 ### Que1. View the menu_items table and write a query to find the number of items on the menu
 ```
 SELECT DISTINCT COUNT(menu_item_id) AS Number_of_items FROM menu_items;
