@@ -1,6 +1,6 @@
 # Restaurant Order Analysis
-## Background
-A quarter's worth of orders from a fictitious restaurant serving international cuisine, including the date and time of each order, the items ordered, and additional details on the type, name and price of the items.
+## Objective 
+This project analyzes a quarter's worth of order data from a fictitious restaurant specializing in international cuisine. The dataset provides details such as the date and time of each order, items ordered, their prices, and associated categories. The goal of this analysis is to uncover insights into the restaurant's operations, including identifying the most and least popular menu items, determining the most common types of cuisine, and analyzing price trends within a specific category. This will help the restaurant optimize its menu, improve pricing strategies, and better align with customer preferences.
 
 
 ## MySQL Queries 
